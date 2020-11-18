@@ -1,0 +1,1 @@
+Workaround to make C#9 init accessors and records work with Il2cpp.
